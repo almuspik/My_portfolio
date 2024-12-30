@@ -28,7 +28,7 @@ You can view the live demo of the portfolio website here: https://my-portfolio-o
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/almuspik/portfolio-website.git
+    git clone https://github.com/almuspik/My_portfolio.git
     ```
 
 
